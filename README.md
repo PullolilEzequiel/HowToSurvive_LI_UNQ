@@ -1,4 +1,4 @@
-# Cómo sobrevivir al LI en la informática UNQ
+# Cómo sobrevivir a la licenciatura en informática, UNQ
 Guia de supervivencia para las materias de la Lic. informatica, UNQ
 
 
