@@ -9,6 +9,6 @@ Para facilitarnos la vida tengo una tablita aca que nos deja completamente visib
 
 | Materia cursadas| Guia de supervivencia | info adicional |
 |----------------|----------------|----------------|
-| Introducción a la Programación   |[Intro](https://github.com/PullolilEzequiel/HowToSurvive_LI_UNQ/materias/intro.md)|-|
+| Introducción a la Programación   |[Intro](https://github.com/PullolilEzequiel/HowToSurvive_LI_UNQ/blob/main/materias/intro.md)|-|
 | Estructuras de Datos   |[Fidel no me mates](https://github.com/PullolilEzequiel/HowToSurvive_LI_UNQ/materias/EstrD)|-|
 
