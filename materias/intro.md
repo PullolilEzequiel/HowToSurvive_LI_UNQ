@@ -155,7 +155,7 @@ function cantidadDeEnanosDeLaFila(){
   Proposito: Describe la cantidad total de enanos en la fila del jardin
   Precondicion: Ninguna
   Recorrido: 
-    Es un recorrido del tablero desde el Oeste hasta el ste sumando
+    Es un recorrido del tablero desde el Oeste hasta el Este sumando
     cantidadDeEnanosDeLaCelda()
   Tipo: Numero
   */
