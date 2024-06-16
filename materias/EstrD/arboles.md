@@ -26,7 +26,7 @@ En cambio, en el ejemplo del árbol, si seguimos las reglas antes definidas, sab
 
 ## Recursión sobre arboles (O cualquier tipo algebraico con más de un elemento recursivo)
 
-Todas los tipos algebraicos con N elementos recursivos van a tener por obliación N llamados de la funcion en su definición y el caso base. Puede haber casos donde el resultado de la función no sea una operación entre los N llamados a la función, pero sí van a estar en la definición.
+Todas los tipos algebraicos con N elementos recursivos van a tener por obligación el caso base y N llamados de la función en su definición. Puede haber casos donde el resultado de la función no sea una operación entre los N llamados a la función, pero sí van a estar en la definición.
 
 Por ejemplo, esta definicion de dungeon va a tener 2 llamados recursivos en las funciones recusivas
 ```haskell
@@ -40,13 +40,13 @@ data Dungeon a = Sala | Cuarto a (Dungeon a) (Dungeon a) (Dungeon a) (Dungeon a)
 
 Lo importante aca es ENTENDER LA ESTRUCTURA, no importa el dominio, si son árboles, caminos, mapas, o dungeons, las funciones tendrán la misma cantidad de llamadas recursivas que sus elementos recursivos.
 
-Toda función recursiva sobre un tipo algebraico seguirá el siguiente esquema:
+Toda función recursiva sobre un tipo algebraico tendra el siguiente esquema:
 ```haskell
 f caso base = ...
 f (S n m d) = n ... f m ... f d
 ```
 En este caso, ¿cuales son los elementos recursivos del tipo algebraico S? 
-
+¿Por qué?
 
 Más ejemplos: 
 
