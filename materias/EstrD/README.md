@@ -14,9 +14,9 @@ Aprovechen las clases practicas, hagan 300 preguntas y no asuman NADA.
 
 | Tema                  |
 |---------------------- |
-|[Recursión]() |
-|[Listas]()             |
-|[Arboles y Recursion]()|
+|[Recursión](https://github.com/PullolilEzequiel/HowToSurvive_LI_UNQ/blob/main/materias/EstrD/recursion.md) |
+|[Listas](https://github.com/PullolilEzequiel/HowToSurvive_LI_UNQ/blob/main/materias/EstrD/listas.md)       |
+|[Arboles y Recursion](https://github.com/PullolilEzequiel/HowToSurvive_LI_UNQ/blob/main/materias/EstrD/arboles.md)|
 |[Invariantes]()        |
 |[BST, AVL]()           | 
 |[TADs]()               | 
